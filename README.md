@@ -28,13 +28,13 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 ## Contents
 
 - [Official Resources](#official-resources)
-- [Community Resources](#community-resources)
-- [Plugins](#plugins)
+- [Communities](#communities)
+- [Software](#software)
 - [Scripts](#scripts)
+- [Plugins](#plugins)
 - [Tutorials](#tutorials)
 - [Books](#books)
 - [Courses](#courses)
-- [Community](#community)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -43,11 +43,27 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) - Official website.
 - [Adobe After Effects Help and Support](https://helpx.adobe.com/after-effects.html) - Official documentation and support.
 
-## Community Resources
+## Communities
 
 - [Reddit - r/AfterEffects](https://www.reddit.com/r/AfterEffects/) - The After Effects subreddit for community discussions and sharing.
 - [Creative COW - After Effects Forum](https://forums.creativecow.net/adobeaftereffects) - Community forum for After Effects users.
-- [After Effects Scripting Guide](https://ae-scripting.docsforadobe.dev/) - A very useful resource with scripting documentation and details.
+- [After Effects Scripting Guide](https://ae-scripting.docsforadobe.dev/) - A very useful resource with scripting documentation and
+- [Twitter - #AfterEffects](https://twitter.com/hashtag/AfterEffects) - Follow the latest After Effects discussions on Twitter.
+- [After Effects Facebook Group](https://www.facebook.com/groups/aftereffectscommunity) - Join the After Effects community on Facebook.
+- [Nexrender Discord](https://discord.gg/S2JtRcB) - Community of people specializing in scripting and video generation automation.
+
+## Software
+ - [Data Clay Templater](https://dataclay.com/templater/) - Simplifies and accelerates the process of creating customized videos.
+ - [nexrender](https://github.com/inlife/nexrender) - 📹 Data-driven render automation for After Effects
+ - [Plainly](https://www.plainlyvideos.com/) - Create engaging videos on autopilot
+
+## Scripts
+
+- [Ease and Wizz](http://aescripts.com/ease-and-wizz/) - A script that simplifies the process of creating complex easing and animation curves.
+- [Motion 2](http://aescripts.com/motion/) - A powerful script for streamlining motion graphics and animation tasks.
+- [Duik Bassel](https://rainboxprod.coop/en/tools/duik/) - A comprehensive rigging and animation toolset for character animation.
+- [Overlord](http://battleaxe.co/overlord) - A script for easily transferring shapes between Illustrator and After Effects.
+- [Flow](https://aescripts.com/flow/) - A script that simplifies the process of creating animation curves and paths.
 
 ## Plugins
 
@@ -56,18 +72,6 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Element 3D](https://www.videocopilot.net/products/element2/) - A powerful 3D plugin for After Effects that allows you to import and animate 3D models.
 - [Saber](https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/) - A free, highly customizable lightsaber plugin for creating epic visual effects.
 - [Optical Flares](https://www.videocopilot.net/products/opticalflares/) - A plugin for adding realistic lens flares and other optical effects to your videos.
-
-## Scripts
-
-- [Ease and Wizz](http://aescripts.com/ease-and-wizz/) - A script that simplifies the process of creating complex easing and animation curves.
-- [Motion 2](http://aescripts.com/motion/) - A powerful script for streamlining motion graphics and animation tasks.
-- [Duik Bassel](https://rainboxprod.coop/en/tools/duik/) - A comprehensive rigging and animation toolset for character animation.
-- [Overlord](http://battleaxe.co/overlord) - A script for transferring shapes between Illustrator and After Effects with ease.
-- [Flow](https://aescripts.com/flow/) - A script that simplifies the process of creating animation curves and paths.
-
-## Software
- - [Data Clay Templater](https://dataclay.com/templater/) - Simplifies and accelerates the process of creating customized videos.
- - [nexrender](https://github.com/inlife/nexrender) - 📹 Data-driven render automation for After Effects
 
 ## Tutorials
 
@@ -92,12 +96,6 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Coursera - Motion Graphics Courses](https://www.coursera.org/specializations/motion-graphics) - Explore motion graphics courses on Coursera.
 - [Skillshare - After Effects Classes](https://www.skillshare.com/browse/adobe-after-effects) - Creative classes and tutorials, including many on After Effects.
 - [Pluralsight - After Effects Courses](https://www.pluralsight.com/courses/adobe-after-effects-fundamentals) - Professional After Effects training on Pluralsight.
-
-## Community
-
-- [Twitter - #AfterEffects](https://twitter.com/hashtag/AfterEffects) - Follow the latest After Effects discussions on Twitter.
-- [After Effects Facebook Group](https://www.facebook.com/groups/aftereffectscommunity) - Join the After Effects community on Facebook.
-- [Nexrender Discord](https://discord.gg/S2JtRcB) - Community of people that specialize in scripting and video generation automation.
 
 ## Contribute
 
