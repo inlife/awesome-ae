@@ -29,6 +29,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 
 - [Official Resources](#official-resources)
 - [Communities](#communities)
+- [Content](#content)
 - [Software](#software)
 - [Scripts](#scripts)
 - [Plugins](#plugins)
@@ -51,6 +52,9 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Twitter - #AfterEffects](https://twitter.com/hashtag/AfterEffects) - Follow the latest After Effects discussions on Twitter.
 - [After Effects Facebook Group](https://www.facebook.com/groups/aftereffectscommunity) - Join the After Effects community on Facebook.
 - [Nexrender Discord](https://discord.gg/S2JtRcB) - Community of people specializing in scripting and video generation automation.
+
+## Content
+- [Mister Horse](https://misterhorse.com/) - Awesome High-quality presets, templates and tools to help you create stunning animated videos with ease.
 
 ## Software
  - [Data Clay Templater](https://dataclay.com/templater/) - Simplifies and accelerates the process of creating customized videos.
