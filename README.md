@@ -30,9 +30,9 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Official Resources](#official-resources)
 - [Communities](#communities)
 - [Content](#content)
-- [Software](#software)
 - [Scripts](#scripts)
 - [Plugins](#plugins)
+- [Software](#software)
 - [Tutorials](#tutorials)
 - [Books](#books)
 - [Courses](#courses)
@@ -56,11 +56,6 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 ## Content
 - [Mister Horse](https://misterhorse.com/) - Awesome High-quality presets, templates and tools to help you create stunning animated videos with ease.
 
-## Software
- - [Data Clay Templater](https://dataclay.com/templater/) - Simplifies and accelerates the process of creating customized videos.
- - [nexrender](https://github.com/inlife/nexrender) - 📹 Data-driven render automation for After Effects
- - [Plainly](https://www.plainlyvideos.com/) - Create engaging videos on autopilot
-
 ## Scripts
 
 - [Ease and Wizz](http://aescripts.com/ease-and-wizz/) - A script that simplifies the process of creating complex easing and animation curves.
@@ -76,6 +71,11 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Element 3D](https://www.videocopilot.net/products/element2/) - A powerful 3D plugin for After Effects that allows you to import and animate 3D models.
 - [Saber](https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/) - A free, highly customizable lightsaber plugin for creating epic visual effects.
 - [Optical Flares](https://www.videocopilot.net/products/opticalflares/) - A plugin for adding realistic lens flares and other optical effects to your videos.
+
+## Software
+ - [Data Clay Templater](https://dataclay.com/templater/) - Simplifies and accelerates the process of creating customized videos.
+ - [nexrender](https://github.com/inlife/nexrender) - 📹 Data-driven render automation for After Effects
+ - [Plainly](https://www.plainlyvideos.com/) - Create engaging videos on autopilot
 
 ## Tutorials
 
