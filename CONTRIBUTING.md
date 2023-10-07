@@ -12,14 +12,13 @@ Ensure your pull request adheres to the following guidelines:
 - Additions should be added to the bottom of the relevant category.
 - If the submitted project is an open-source project on GitHub:
 	- It should have at least 20 stars.
-	- Link to the GitHub repo, not its website.
+	- Link to the GitHub repo, not its website, is preferred.
 - Keep descriptions short and simple but descriptive.
 	- The description should not be a marketing tagline.
 	- The description should not be a title case.
 	- The description should not repeat the item title.
 	- The description should start with a capital and end with a full stop/period.
 - Check your spelling and grammar. You can use ChatGPT for this!
-- Make sure your text editor is set to remove trailing whitespace.
 - New categories or improvements to the existing categorization are welcome but should be done in a separate pull request.
 
 Thank you for your suggestion!
