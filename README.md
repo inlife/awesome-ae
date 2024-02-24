@@ -17,7 +17,7 @@
 <div align="center">
   <sub>
     Brought to you by <a href="https://github.com/inlife">@inlife</a>
-    and other <a href="https://github.com/zpl-c/librg/graphs/contributors">contributors</a>
+    and other <a href="https://github.com/inlife/awesome-ae/graphs/contributors">contributors</a>
   </sub>
 </div>
 
