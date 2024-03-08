@@ -74,7 +74,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 
 ## Software
  - [Data Clay Templater](https://dataclay.com/templater/) - Simplifies and accelerates the process of creating customized videos.
- - [nexrender](https://github.com/inlife/nexrender) - 📹 Data-driven render automation for After Effects
+ - [nexrender](https://www.nexrender.com) - 📹 Data-driven render automation for After Effects
  - [Plainly](https://www.plainlyvideos.com/) - Create engaging videos on autopilot
 
 ## Tutorials
