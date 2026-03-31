@@ -85,9 +85,9 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Squash & Stretch Pro](https://aescripts.com/squash-and-stretch-pro/) - Behavior-based animation assistant with handcrafted motion presets and an integrated sound effects library.
 
 ## Software
- - [Data Clay Templater](https://dataclay.com/templater/) - Simplifies and accelerates the process of creating customized videos.
+
  - [nexrender](https://www.nexrender.com) - 📹 Data-driven render automation for After Effects
- - [Plainly](https://www.plainlyvideos.com/) - Create engaging videos on autopilot
+ - [DataClay Templater](https://dataclay.com/templater/) - Simplifies and accelerates the process of creating customized videos.
 
 ## Tutorials
 
