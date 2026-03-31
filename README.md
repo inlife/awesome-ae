@@ -55,6 +55,8 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 
 ## Content
 - [Mister Horse](https://misterhorse.com/) - Awesome High-quality presets, templates and tools to help you create stunning animated videos with ease.
+- [AEJuice](https://aejuice.com/) - Free and premium motion presets, transitions, and effects packs installable directly via a panel inside After Effects.
+- [LottieFiles](https://lottiefiles.com/) - Platform for creating, previewing, and sharing Lottie animations exported from After Effects.
 
 ## Scripts
 
@@ -63,6 +65,11 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Duik Bassel](https://rainboxprod.coop/en/tools/duik/) - A comprehensive rigging and animation toolset for character animation.
 - [Overlord](http://battleaxe.co/overlord) - A script for easily transferring shapes between Illustrator and After Effects.
 - [Flow](https://aescripts.com/flow/) - A script that simplifies the process of creating animation curves and paths.
+- [RailCut](https://www.jakeinmotion.com/railcut) - Multi-track clip editing directly in After Effects with NLE-style tools like ripple edit, rolling edit, slip, and slide.
+- [Bodymovin](https://aescripts.com/bodymovin/) - Exports After Effects animations to JSON format for playback on web and mobile using the Lottie library.
+- [Auto Crop](https://aescripts.com/auto-crop/) - Automatically crops compositions to fit their contents, analyzing the full duration of the animation.
+- [True Comp Duplicator](https://aescripts.com/true-comp-duplicator/) - Duplicates entire composition hierarchies including sub-comps while preserving folder structure and references.
+- [KBar](https://aescripts.com/kbar/) - Creates custom toolbar panels with one-click buttons for scripts, effects, expressions, and presets.
 
 ## Plugins
 
@@ -71,6 +78,11 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Element 3D](https://www.videocopilot.net/products/element2/) - A powerful 3D plugin for After Effects that allows you to import and animate 3D models.
 - [Saber](https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/) - A free, highly customizable lightsaber plugin for creating epic visual effects.
 - [Optical Flares](https://www.videocopilot.net/products/opticalflares/) - A plugin for adding realistic lens flares and other optical effects to your videos.
+- [Rubberhose 2](https://battleaxe.co/rubberhose) - Shape-layer-based IK limb rigging system for fast character animation with one-click rig creation.
+- [Joysticks 'n Sliders](https://aescripts.com/joysticks-n-sliders/) - Pose-based rigging tool for character and facial animation using joystick and slider controllers.
+- [Limber](https://aescripts.com/limber/) - Flexible, shape-based limb rigging with IK/FK switching, auto-rotating hands, and over 100 presets.
+- [Ray Dynamic Color](https://aescripts.com/ray-dynamic-color/) - Expression-linked color palette system for unified color management across entire projects.
+- [Squash & Stretch Pro](https://aescripts.com/squash-and-stretch-pro/) - Behavior-based animation assistant with handcrafted motion presets and an integrated sound effects library.
 
 ## Software
  - [Data Clay Templater](https://dataclay.com/templater/) - Simplifies and accelerates the process of creating customized videos.
