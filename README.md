@@ -57,6 +57,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Mister Horse](https://misterhorse.com/) - Awesome High-quality presets, templates and tools to help you create stunning animated videos with ease.
 - [AEJuice](https://aejuice.com/) - Free and premium motion presets, transitions, and effects packs installable directly via a panel inside After Effects.
 - [LottieFiles](https://lottiefiles.com/) - Platform for creating, previewing, and sharing Lottie animations exported from After Effects.
+- [Motion Array](https://motionarray.com/) - Subscription library of After Effects templates, motion graphics presets, stock footage, and plugins.
 
 ## Scripts
 
@@ -70,6 +71,8 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Auto Crop](https://aescripts.com/auto-crop/) - Automatically crops compositions to fit their contents, analyzing the full duration of the animation.
 - [True Comp Duplicator](https://aescripts.com/true-comp-duplicator/) - Duplicates entire composition hierarchies including sub-comps while preserving folder structure and references.
 - [KBar](https://aescripts.com/kbar/) - Creates custom toolbar panels with one-click buttons for scripts, effects, expressions, and presets.
+- [GifGun](https://aescripts.com/gifgun/) - Exports animated GIFs, WebP, and WebM files directly from After Effects via a one-click render queue workflow.
+- [Explode Shape Layers](https://aescripts.com/explode-shape-layers/) - Splits a shape layer into individual layers per shape, or merges multiple shape layers into one, with Illustrator conversion support.
 
 ## Plugins
 
@@ -83,6 +86,11 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Limber](https://aescripts.com/limber/) - Flexible, shape-based limb rigging with IK/FK switching, auto-rotating hands, and over 100 presets.
 - [Ray Dynamic Color](https://aescripts.com/ray-dynamic-color/) - Expression-linked color palette system for unified color management across entire projects.
 - [Squash & Stretch Pro](https://aescripts.com/squash-and-stretch-pro/) - Behavior-based animation assistant with handcrafted motion presets and an integrated sound effects library.
+- [Newton 4](https://aescripts.com/newton/) - 2D physics engine that simulates realistic collisions, gravity, and joint constraints for After Effects layers, baking results as standard keyframes.
+- [Deep Glow](https://aescripts.com/deep-glow/) - GPU-accelerated glow plugin with physically accurate light falloff, HDR thresholding, and image-based glow.
+- [TextBox 2](https://www.plugineverything.com/textbox) - Creates automatically resizing shape backgrounds behind text layers without expressions or parenting.
+- [Shadow Studio 3](https://www.plugineverything.com/shadowstudio) - Ray tracing-based plugin for simulating global illumination, ambient occlusion, and subsurface scattering driven by layer alpha channels.
+- [Sapphire](https://borisfx.com/products/sapphire/) - Suite of 270+ GPU-accelerated VFX effects with integrated Mocha tracking and a custom effect and transition builder.
 
 ## Software
 
