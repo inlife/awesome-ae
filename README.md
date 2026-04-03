@@ -58,6 +58,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [AEJuice](https://aejuice.com/) - Free and premium motion presets, transitions, and effects packs installable directly via a panel inside After Effects.
 - [LottieFiles](https://lottiefiles.com/) - Platform for creating, previewing, and sharing Lottie animations exported from After Effects.
 - [Motion Array](https://motionarray.com/) - Subscription library of After Effects templates, motion graphics presets, stock footage, and plugins.
+- [Mixkit](https://mixkit.co/free-after-effects-templates/) - Free After Effects templates, transitions, and titles with no attribution or sign-up required.
 
 ## Scripts
 
@@ -73,6 +74,9 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [KBar](https://aescripts.com/kbar/) - Creates custom toolbar panels with one-click buttons for scripts, effects, expressions, and presets.
 - [GifGun](https://aescripts.com/gifgun/) - Exports animated GIFs, WebP, and WebM files directly from After Effects via a one-click render queue workflow.
 - [Explode Shape Layers](https://aescripts.com/explode-shape-layers/) - Splits a shape layer into individual layers per shape, or merges multiple shape layers into one, with Illustrator conversion support.
+- [Rift](https://aescripts.com/rift/) - Shifts, sequences, staggers, and randomizes layer in/out points, keyframes, and markers across multiple properties in a single operation.
+- [AEVIEWER](https://aescripts.com/aeviewer/) - Free media browser for previewing and importing After Effects project files and assets without leaving the application.
+- [BG Renderer Max](https://aescripts.com/bg-renderer/) - Renders compositions in the background using the After Effects engine with multiprocessing, MP4/ProRes output, and notification integrations.
 
 ## Plugins
 
@@ -91,11 +95,14 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [TextBox 2](https://www.plugineverything.com/textbox) - Creates automatically resizing shape backgrounds behind text layers without expressions or parenting.
 - [Shadow Studio 3](https://www.plugineverything.com/shadowstudio) - Ray tracing-based plugin for simulating global illumination, ambient occlusion, and subsurface scattering driven by layer alpha channels.
 - [Sapphire](https://borisfx.com/products/sapphire/) - Suite of 270+ GPU-accelerated VFX effects with integrated Mocha tracking and a custom effect and transition builder.
+- [Stardust](https://superluminal.tv/stardust) - Modular 3D particle system with a node-based interface supporting volumetric rendering, 3D geometry instances, and VDB file import.
+- [AutoFill 2](https://www.plugineverything.com/autofill) - Automates animated stroke and fill effects with a multi-layered style builder for compositing, blending, and displacement.
 
 ## Software
 
  - [nexrender](https://www.nexrender.com) - 📹 Data-driven render automation for After Effects
  - [DataClay Templater](https://dataclay.com/templater/) - Simplifies and accelerates the process of creating customized videos.
+ - [Anubis](https://www.battleaxe.co/anubis) - Render management panel for exporting MP4 from After Effects and Premiere with automatic file naming and folder organization.
 
 ## Tutorials
 
