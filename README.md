@@ -77,6 +77,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Rift](https://aescripts.com/rift/) - Shifts, sequences, staggers, and randomizes layer in/out points, keyframes, and markers across multiple properties in a single operation.
 - [AEVIEWER](https://aescripts.com/aeviewer/) - Free media browser for previewing and importing After Effects project files and assets without leaving the application.
 - [BG Renderer Max](https://aescripts.com/bg-renderer/) - Renders compositions in the background using the After Effects engine with multiprocessing, MP4/ProRes output, and notification integrations.
+- [Motion Bro](https://motionbro.net) - Extension panel for browsing, previewing, and applying animation preset packs and transitions directly within After Effects.
 
 ## Plugins
 
@@ -97,6 +98,11 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Sapphire](https://borisfx.com/products/sapphire/) - Suite of 270+ GPU-accelerated VFX effects with integrated Mocha tracking and a custom effect and transition builder.
 - [Stardust](https://superluminal.tv/stardust) - Modular 3D particle system with a node-based interface supporting volumetric rendering, 3D geometry instances, and VDB file import.
 - [AutoFill 2](https://www.plugineverything.com/autofill) - Automates animated stroke and fill effects with a multi-layered style builder for compositing, blending, and displacement.
+- [Twixtor](https://revisionfx.com/products/twixtor/) - Per-pixel motion-estimation plugin for high-quality speed changes, slow motion, and frame-rate conversion.
+- [Lockdown](https://aescripts.com/lockdown/) - Plugin for tracking and compositing onto deforming, non-rigid surfaces using mesh-based warp tracking.
+- [Mocha Pro](https://borisfx.com/products/mocha-pro/) - Planar tracking and rotoscoping plugin with object removal, stabilization, and PowerMesh organic warp tracking.
+- [Magic Bullet Suite](https://www.redgiant.com/products/magic-bullet-suite/) - Color correction, film looks, and finishing plugin suite with GPU-accelerated grading and film emulation tools.
+- [AfterCodecs](https://www.autokroma.com/AfterCodecs) - Output module plugin for rendering H.264, ProRes, HAP, and HEVC files directly from the After Effects render queue without Media Encoder.
 
 ## Software
 
