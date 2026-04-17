@@ -78,6 +78,9 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [AEVIEWER](https://aescripts.com/aeviewer/) - Free media browser for previewing and importing After Effects project files and assets without leaving the application.
 - [BG Renderer Max](https://aescripts.com/bg-renderer/) - Renders compositions in the background using the After Effects engine with multiprocessing, MP4/ProRes output, and notification integrations.
 - [Motion Bro](https://motionbro.net) - Extension panel for browsing, previewing, and applying animation preset packs and transitions directly within After Effects.
+- [BeatEdit](https://aescripts.com/beatedit-for-after-effects/) - Detects beats in audio tracks and generates markers or keyframes to sync animations to music.
+- [Move Anchor Point 4](https://aescripts.com/move-anchor-point/) - Repositions layer anchor points to any corner, edge midpoint, or center without shifting the layer's position in the composition.
+- [pt_OpenSesame](https://aescripts.com/pt_opensesame/) - Imports compositions and footage items from one After Effects project into another via a plain-text manifest file.
 
 ## Plugins
 
@@ -103,6 +106,8 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Mocha Pro](https://borisfx.com/products/mocha-pro/) - Planar tracking and rotoscoping plugin with object removal, stabilization, and PowerMesh organic warp tracking.
 - [Magic Bullet Suite](https://www.redgiant.com/products/magic-bullet-suite/) - Color correction, film looks, and finishing plugin suite with GPU-accelerated grading and film emulation tools.
 - [AfterCodecs](https://www.autokroma.com/AfterCodecs) - Output module plugin for rendering H.264, ProRes, HAP, and HEVC files directly from the After Effects render queue without Media Encoder.
+- [ReelSmart Motion Blur](https://revisionfx.com/products/rsmb/) - Adds natural-looking motion blur to footage by automatically tracking per-pixel motion.
+- [FX Console](https://www.videocopilot.net/tutorials/fx_console_plugin) - Free quick-search command palette for applying effects, presets, and plugins without navigating menus.
 
 ## Software
 
