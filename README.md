@@ -58,6 +58,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [AEJuice](https://aejuice.com/) - Free and premium motion presets, transitions, and effects packs installable directly via a panel inside After Effects.
 - [LottieFiles](https://lottiefiles.com/) - Platform for creating, previewing, and sharing Lottie animations exported from After Effects.
 - [Motion Array](https://motionarray.com/) - Subscription library of After Effects templates, motion graphics presets, stock footage, and plugins.
+- [Mixkit](https://mixkit.co/free-after-effects-templates/) - Free After Effects templates, transitions, and titles with no attribution or sign-up required.
 
 ## Scripts
 
@@ -73,6 +74,13 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [KBar](https://aescripts.com/kbar/) - Creates custom toolbar panels with one-click buttons for scripts, effects, expressions, and presets.
 - [GifGun](https://aescripts.com/gifgun/) - Exports animated GIFs, WebP, and WebM files directly from After Effects via a one-click render queue workflow.
 - [Explode Shape Layers](https://aescripts.com/explode-shape-layers/) - Splits a shape layer into individual layers per shape, or merges multiple shape layers into one, with Illustrator conversion support.
+- [Rift](https://aescripts.com/rift/) - Shifts, sequences, staggers, and randomizes layer in/out points, keyframes, and markers across multiple properties in a single operation.
+- [AEVIEWER](https://aescripts.com/aeviewer/) - Free media browser for previewing and importing After Effects project files and assets without leaving the application.
+- [BG Renderer Max](https://aescripts.com/bg-renderer/) - Renders compositions in the background using the After Effects engine with multiprocessing, MP4/ProRes output, and notification integrations.
+- [Motion Bro](https://motionbro.net) - Extension panel for browsing, previewing, and applying animation preset packs and transitions directly within After Effects.
+- [BeatEdit](https://aescripts.com/beatedit-for-after-effects/) - Detects beats in audio tracks and generates markers or keyframes to sync animations to music.
+- [Move Anchor Point 4](https://aescripts.com/move-anchor-point/) - Repositions layer anchor points to any corner, edge midpoint, or center without shifting the layer's position in the composition.
+- [pt_OpenSesame](https://aescripts.com/pt_opensesame/) - Imports compositions and footage items from one After Effects project into another via a plain-text manifest file.
 
 ## Plugins
 
@@ -91,11 +99,21 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [TextBox 2](https://www.plugineverything.com/textbox) - Creates automatically resizing shape backgrounds behind text layers without expressions or parenting.
 - [Shadow Studio 3](https://www.plugineverything.com/shadowstudio) - Ray tracing-based plugin for simulating global illumination, ambient occlusion, and subsurface scattering driven by layer alpha channels.
 - [Sapphire](https://borisfx.com/products/sapphire/) - Suite of 270+ GPU-accelerated VFX effects with integrated Mocha tracking and a custom effect and transition builder.
+- [Stardust](https://superluminal.tv/stardust) - Modular 3D particle system with a node-based interface supporting volumetric rendering, 3D geometry instances, and VDB file import.
+- [AutoFill 2](https://www.plugineverything.com/autofill) - Automates animated stroke and fill effects with a multi-layered style builder for compositing, blending, and displacement.
+- [Twixtor](https://revisionfx.com/products/twixtor/) - Per-pixel motion-estimation plugin for high-quality speed changes, slow motion, and frame-rate conversion.
+- [Lockdown](https://aescripts.com/lockdown/) - Plugin for tracking and compositing onto deforming, non-rigid surfaces using mesh-based warp tracking.
+- [Mocha Pro](https://borisfx.com/products/mocha-pro/) - Planar tracking and rotoscoping plugin with object removal, stabilization, and PowerMesh organic warp tracking.
+- [Magic Bullet Suite](https://www.redgiant.com/products/magic-bullet-suite/) - Color correction, film looks, and finishing plugin suite with GPU-accelerated grading and film emulation tools.
+- [AfterCodecs](https://www.autokroma.com/AfterCodecs) - Output module plugin for rendering H.264, ProRes, HAP, and HEVC files directly from the After Effects render queue without Media Encoder.
+- [ReelSmart Motion Blur](https://revisionfx.com/products/rsmb/) - Adds natural-looking motion blur to footage by automatically tracking per-pixel motion.
+- [FX Console](https://www.videocopilot.net/tutorials/fx_console_plugin) - Free quick-search command palette for applying effects, presets, and plugins without navigating menus.
 
 ## Software
 
  - [nexrender](https://www.nexrender.com) - 📹 Data-driven render automation for After Effects
  - [DataClay Templater](https://dataclay.com/templater/) - Simplifies and accelerates the process of creating customized videos.
+ - [Anubis](https://www.battleaxe.co/anubis) - Render management panel for exporting MP4 from After Effects and Premiere with automatic file naming and folder organization.
 
 ## Tutorials
 
