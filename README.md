@@ -59,6 +59,8 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [LottieFiles](https://lottiefiles.com/) - Platform for creating, previewing, and sharing Lottie animations exported from After Effects.
 - [Motion Array](https://motionarray.com/) - Subscription library of After Effects templates, motion graphics presets, stock footage, and plugins.
 - [Mixkit](https://mixkit.co/free-after-effects-templates/) - Free After Effects templates, transitions, and titles with no attribution or sign-up required.
+- [ActionVFX](https://www.actionvfx.com/) - Library of production-ready VFX stock footage elements including fire, smoke, explosions, and atmospheric effects for compositing.
+- [Envato Elements](https://elements.envato.com/after-effects) - Subscription library providing unlimited downloads of After Effects templates, motion graphics presets, and stock media assets.
 
 ## Scripts
 
@@ -81,6 +83,9 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [BeatEdit](https://aescripts.com/beatedit-for-after-effects/) - Detects beats in audio tracks and generates markers or keyframes to sync animations to music.
 - [Move Anchor Point 4](https://aescripts.com/move-anchor-point/) - Repositions layer anchor points to any corner, edge midpoint, or center without shifting the layer's position in the composition.
 - [pt_OpenSesame](https://aescripts.com/pt_opensesame/) - Imports compositions and footage items from one After Effects project into another via a plain-text manifest file.
+- [Expression Universalizer](https://aescripts.com/expressionuniversalizer/) - Rewrites project expressions to use locale-independent syntax, enabling sharing across non-English After Effects installations.
+- [Composite Brush](https://aescripts.com/composite-brush/) - Creates accurate mattes and color selections by painting strokes directly on footage in the composition viewer.
+- [AEUX](https://google.github.io/AEUX/) - Transfers layers from Figma and Sketch into After Effects as editable shape layers, text, and images.
 
 ## Plugins
 
@@ -108,6 +113,10 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [AfterCodecs](https://www.autokroma.com/AfterCodecs) - Output module plugin for rendering H.264, ProRes, HAP, and HEVC files directly from the After Effects render queue without Media Encoder.
 - [ReelSmart Motion Blur](https://revisionfx.com/products/rsmb/) - Adds natural-looking motion blur to footage by automatically tracking per-pixel motion.
 - [FX Console](https://www.videocopilot.net/tutorials/fx_console_plugin) - Free quick-search command palette for applying effects, presets, and plugins without navigating menus.
+- [Plexus](https://rowbyte.com/plexus) - Node-based 3D particle and geometry visualization plugin with OBJ import, point cloud rendering, and data-driven animation support.
+- [Orb](https://www.videocopilot.net/orb/) - Free GPU-accelerated plugin for generating photorealistic 3D spheres with multi-channel texture mapping, specularity, and atmospheric glow.
+- [Boris FX Continuum](https://borisfx.com/products/continuum/) - Suite of 350+ GPU-accelerated effects, transitions, and text tools with integrated Mocha tracking and AI-based image restoration.
+- [Autokroma Influx](https://www.autokroma.com/Influx) - Native importer plugin that adds After Effects support for MKV, AV1, HAP, and other formats not handled by Adobe's default decoders.
 
 ## Software
 
