@@ -59,6 +59,8 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [LottieFiles](https://lottiefiles.com/) - Platform for creating, previewing, and sharing Lottie animations exported from After Effects.
 - [Motion Array](https://motionarray.com/) - Subscription library of After Effects templates, motion graphics presets, stock footage, and plugins.
 - [Mixkit](https://mixkit.co/free-after-effects-templates/) - Free After Effects templates, transitions, and titles with no attribution or sign-up required.
+- [Envato Elements](https://elements.envato.com/video-templates/compatible-with-after-effects) - Subscription library of After Effects templates including titles, openers, logo reveals, and motion graphics available under a commercial license.
+- [Storyblocks](https://www.storyblocks.com/templates/after-effects-templates) - Subscription platform providing unlimited downloads of royalty-free After Effects templates for corporate, promotional, and broadcast motion graphics.
 
 ## Scripts
 
@@ -81,6 +83,8 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [BeatEdit](https://aescripts.com/beatedit-for-after-effects/) - Detects beats in audio tracks and generates markers or keyframes to sync animations to music.
 - [Move Anchor Point 4](https://aescripts.com/move-anchor-point/) - Repositions layer anchor points to any corner, edge midpoint, or center without shifting the layer's position in the composition.
 - [pt_OpenSesame](https://aescripts.com/pt_opensesame/) - Imports compositions and footage items from one After Effects project into another via a plain-text manifest file.
+- [RenderGarden](https://aescripts.com/rendergarden/) - Splits compositions into segments and renders them across multiple CPU cores or machines directly from the After Effects render queue for multi-threaded output.
+- [Pastiche](https://aescripts.com/pastiche/) - Arranges layers into collage or swarm formations defined by a source shape layer, with support for morphing between formations and looping animation.
 
 ## Plugins
 
@@ -108,6 +112,10 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [AfterCodecs](https://www.autokroma.com/AfterCodecs) - Output module plugin for rendering H.264, ProRes, HAP, and HEVC files directly from the After Effects render queue without Media Encoder.
 - [ReelSmart Motion Blur](https://revisionfx.com/products/rsmb/) - Adds natural-looking motion blur to footage by automatically tracking per-pixel motion.
 - [FX Console](https://www.videocopilot.net/tutorials/fx_console_plugin) - Free quick-search command palette for applying effects, presets, and plugins without navigating menus.
+- [Plexus](https://aescripts.com/plexus/) - Procedural 3D particle and geometry engine that generates point clouds, lines, and triangulated surfaces with a real-time interactive OpenGL viewport.
+- [Continuum](https://borisfx.com/products/continuum/) - Suite of 300+ GPU-accelerated VFX filters and 40 transitions covering color grading, light effects, particles, and compositing tasks with over 5,000 presets.
+- [Depth of Field Generator Pro](https://richardrosenman.com/shop/dof-pro-ae/) - Post-production depth-of-field simulation plugin using depth maps with support for aperture shapes, bokeh, chromatic aberration, and tilt-shift effects.
+- [Aura](https://aescripts.com/aura/) - Generates animated 3D geometric wave forms and patterns with depth-of-field support and Multi-Frame Rendering compatibility.
 
 ## Software
 
