@@ -81,6 +81,11 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [BeatEdit](https://aescripts.com/beatedit-for-after-effects/) - Detects beats in audio tracks and generates markers or keyframes to sync animations to music.
 - [Move Anchor Point 4](https://aescripts.com/move-anchor-point/) - Repositions layer anchor points to any corner, edge midpoint, or center without shifting the layer's position in the composition.
 - [pt_OpenSesame](https://aescripts.com/pt_opensesame/) - Imports compositions and footage items from one After Effects project into another via a plain-text manifest file.
+- [Motion Tools Pro](https://aescripts.com/motion-tools-pro/) - Panel combining over 30 workflow tools including anchor point control, layer sequencing, custom easing, and color palette management.
+- [Automation Blocks](https://aescripts.com/automation-blocks-for-after-effects/) - Visual block-based scripting environment for building and running one-click automation tools without writing code.
+- [Buttcapper](https://battleaxe.co/buttcapper) - Free script that sets stroke cap and join styles across selected shapes, layers, or an entire composition in one click.
+- [ExpressionUniversalizer](https://aescripts.com/expressionuniversalizer/) - Converts project expressions to be language-independent so templates function correctly in any localized version of After Effects.
+- [Zorro The Layer Tagger](https://aescripts.com/zorro-the-layer-tagger/) - Tags layers with labels to enable group selection and isolation without pre-composing.
 
 ## Plugins
 
@@ -108,6 +113,9 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [AfterCodecs](https://www.autokroma.com/AfterCodecs) - Output module plugin for rendering H.264, ProRes, HAP, and HEVC files directly from the After Effects render queue without Media Encoder.
 - [ReelSmart Motion Blur](https://revisionfx.com/products/rsmb/) - Adds natural-looking motion blur to footage by automatically tracking per-pixel motion.
 - [FX Console](https://www.videocopilot.net/tutorials/fx_console_plugin) - Free quick-search command palette for applying effects, presets, and plugins without navigating menus.
+- [ORB](https://www.videocopilot.net/orb/) - Free plugin for creating detailed 3D spheres and planets with physically-based shaders, bump mapping, atmospheric controls, and environment reflections.
+- [Plexus](https://www.rowbyte.com/plexus) - Procedural 3D particle system that generates data-driven visuals by connecting points with lines and triangles in a node-based workflow.
+- [Thicc Stroke](https://www.plugineverything.com/thiccstroke) - Free variable-width stroke plugin with gradient-along-path support, taper controls, and animated width profiles.
 
 ## Software
 
