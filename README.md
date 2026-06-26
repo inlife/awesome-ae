@@ -59,6 +59,8 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [LottieFiles](https://lottiefiles.com/) - Platform for creating, previewing, and sharing Lottie animations exported from After Effects.
 - [Motion Array](https://motionarray.com/) - Subscription library of After Effects templates, motion graphics presets, stock footage, and plugins.
 - [Mixkit](https://mixkit.co/free-after-effects-templates/) - Free After Effects templates, transitions, and titles with no attribution or sign-up required.
+- [VideoHive](https://videohive.net/category/after-effects-project-files) - Envato marketplace with thousands of hand-reviewed After Effects project templates spanning titles, openers, and broadcast packages.
+- [MotionElements](https://www.motionelements.com) - Royalty-free stock marketplace with After Effects templates, stock footage, and motion graphics available via subscription or individual purchase.
 
 ## Scripts
 
@@ -82,6 +84,9 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Move Anchor Point 4](https://aescripts.com/move-anchor-point/) - Repositions layer anchor points to any corner, edge midpoint, or center without shifting the layer's position in the composition.
 - [pt_OpenSesame](https://aescripts.com/pt_opensesame/) - Imports compositions and footage items from one After Effects project into another via a plain-text manifest file.
 - [Animation Composer](https://misterhorse.com/animation-composer) - Free panel for browsing and applying animation presets, transitions, titles, and sound effects with an integrated asset library.
+- [Automation Blocks](https://aescripts.com/automation-blocks-for-after-effects/) - Visual block-based scripting environment for building custom one-click automation tools without writing JavaScript.
+- [Buttcapper](https://battleaxe.co/buttcapper) - Free script for batch-changing stroke caps and joins across selected shapes, layers, or entire compositions.
+- [Motion Tools Pro](https://motiondesign.school/products/motion-tools-pro/) - Customizable workspace panel with over 30 built-in scripts for easing, keyframe management, and workflow optimization.
 
 ## Plugins
 
@@ -115,6 +120,11 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Fast Bokeh Pro](https://www.rowbyte.com/fast-bokeh) - GPU-accelerated depth-of-field blur using depth maps with polygonal iris shapes and anamorphic bokeh support.
 - [Extrude](https://www.plugineverything.com/extrude) - Extrudes live text layers, shape layers, and mask paths into 3D with directional and camera-aware modes and GPU-accelerated shading.
 - [Digit Fiddler](https://www.plugineverything.com/digit-fiddler) - Animates counters, currency, time, and custom numeric sequences from a single slider with padding and monospacing controls.
+- [Mask Prompter](https://aescripts.com/mask-prompter/) - AI-powered rotoscoping plugin that generates and tracks masks from point selections or text prompts using deep learning.
+- [BAO Boa](https://aescripts.com/bao-boa/) - Spline deformation plugin that distorts layers along mask paths for animating ribbons, ropes, and curved text with 3D controls.
+- [Datamosh](https://aescripts.com/datamosh/) - Glitch-art plugin that simulates video codec corruption with over 60 moshing algorithms and controllable pixel distortion effects.
+- [Moglyph FX](https://aescripts.com/moglyph-fx/) - Procedural glyph cloner plugin inspired by Cinema 4D MoGraph for generating and animating text in grid, radial, and spline arrangements with effectors.
+- [GEOlayers 3](https://aescripts.com/geolayers/) - Renders editable custom maps using real geodata inside After Effects with animated routes, borders, and data-driven visualizations.
 
 ## Software
 
