@@ -48,13 +48,13 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 
 - [Reddit - r/AfterEffects](https://www.reddit.com/r/AfterEffects/) - The After Effects subreddit for community discussions and sharing.
 - [Creative COW - After Effects Forum](https://forums.creativecow.net/adobeaftereffects) - Community forum for After Effects users.
-- [After Effects Scripting Guide](https://ae-scripting.docsforadobe.dev/) - A very useful resource with scripting documentation and
 - [Twitter - #AfterEffects](https://twitter.com/hashtag/AfterEffects) - Follow the latest After Effects discussions on Twitter.
 - [After Effects Facebook Group](https://www.facebook.com/groups/aftereffectscommunity) - Join the After Effects community on Facebook.
 - [Nexrender Discord](https://discord.gg/S2JtRcB) - Community of people specializing in scripting and video generation automation.
 
 ## Content
-- [Mister Horse](https://misterhorse.com/) - Awesome High-quality presets, templates and tools to help you create stunning animated videos with ease.
+
+- [Mister Horse](https://misterhorse.com/) - High-quality presets, templates, and tools for creating animated videos inside After Effects.
 - [AEJuice](https://aejuice.com/) - Free and premium motion presets, transitions, and effects packs installable directly via a panel inside After Effects.
 - [LottieFiles](https://lottiefiles.com/) - Platform for creating, previewing, and sharing Lottie animations exported from After Effects.
 - [Motion Array](https://motionarray.com/) - Subscription library of After Effects templates, motion graphics presets, stock footage, and plugins.
@@ -64,12 +64,14 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Envato Elements](https://elements.envato.com/video-templates/compatible-with-after-effects) - Subscription library of After Effects templates including titles, openers, logo reveals, and motion graphics available under a commercial license.
 - [Storyblocks](https://www.storyblocks.com/templates/after-effects-templates) - Subscription platform providing unlimited downloads of royalty-free After Effects templates for corporate, promotional, and broadcast motion graphics.
 - [ActionVFX](https://www.actionvfx.com/) - Library of production-ready VFX stock footage elements including fire, smoke, explosions, and atmospheric effects for compositing.
+- [Motion Bro](https://motionbro.net) - Free panel for browsing, previewing, and applying third-party animation preset packs and transitions from multiple creators directly within After Effects.
 
 ## Scripts
 
+- [After Effects Scripting Guide](https://ae-scripting.docsforadobe.dev/) - Community-maintained reference for the After Effects scripting API and ExtendScript object model.
 - [Ease and Wizz](http://aescripts.com/ease-and-wizz/) - A script that simplifies the process of creating complex easing and animation curves.
 - [Motion 2](http://aescripts.com/motion/) - A powerful script for streamlining motion graphics and animation tasks.
-- [Duik Bassel](https://rainboxprod.coop/en/tools/duik/) - A comprehensive rigging and animation toolset for character animation.
+- [Duik Angela](https://rainboxprod.coop/en/tools/duik/) - Free, comprehensive rigging and animation toolset for character animation with auto-rig, IK/FK, and walk cycles.
 - [Overlord](http://battleaxe.co/overlord) - A script for easily transferring shapes between Illustrator and After Effects.
 - [Flow](https://aescripts.com/flow/) - A script that simplifies the process of creating animation curves and paths.
 - [RailCut](https://www.jakeinmotion.com/railcut) - Multi-track clip editing directly in After Effects with NLE-style tools like ripple edit, rolling edit, slip, and slide.
@@ -82,30 +84,34 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Rift](https://aescripts.com/rift/) - Shifts, sequences, staggers, and randomizes layer in/out points, keyframes, and markers across multiple properties in a single operation.
 - [AEVIEWER](https://aescripts.com/aeviewer/) - Free media browser for previewing and importing After Effects project files and assets without leaving the application.
 - [BG Renderer Max](https://aescripts.com/bg-renderer/) - Renders compositions in the background using the After Effects engine with multiprocessing, MP4/ProRes output, and notification integrations.
-- [Motion Bro](https://motionbro.net) - Extension panel for browsing, previewing, and applying animation preset packs and transitions directly within After Effects.
+- [Anubis](https://www.battleaxe.co/anubis) - CEP panel for exporting MP4 files from After Effects and Premiere with dynamic file naming and folder organization.
 - [BeatEdit](https://aescripts.com/beatedit-for-after-effects/) - Detects beats in audio tracks and generates markers or keyframes to sync animations to music.
 - [Move Anchor Point 4](https://aescripts.com/move-anchor-point/) - Repositions layer anchor points to any corner, edge midpoint, or center without shifting the layer's position in the composition.
 - [pt_OpenSesame](https://aescripts.com/pt_opensesame/) - Imports compositions and footage items from one After Effects project into another via a plain-text manifest file.
-- [Animation Composer](https://misterhorse.com/animation-composer) - Free panel for browsing and applying animation presets, transitions, titles, and sound effects with an integrated asset library.
 - [Automation Blocks](https://aescripts.com/automation-blocks-for-after-effects/) - Visual block-based scripting environment for building custom one-click automation tools without writing JavaScript.
 - [Buttcapper](https://battleaxe.co/buttcapper) - Free script for batch-changing stroke caps and joins across selected shapes, layers, or entire compositions.
 - [Motion Tools Pro](https://motiondesign.school/products/motion-tools-pro/) - Customizable workspace panel with over 30 built-in scripts for easing, keyframe management, and workflow optimization.
 - [RenderGarden](https://aescripts.com/rendergarden/) - Splits compositions into segments and renders them across multiple CPU cores or machines directly from the After Effects render queue for multi-threaded output.
 - [Pastiche](https://aescripts.com/pastiche/) - Arranges layers into collage or swarm formations defined by a source shape layer, with support for morphing between formations and looping animation.
 - [Expression Universalizer](https://aescripts.com/expressionuniversalizer/) - Rewrites project expressions to use locale-independent syntax, enabling sharing across non-English After Effects installations.
-- [Composite Brush](https://aescripts.com/composite-brush/) - Creates accurate mattes and color selections by painting strokes directly on footage in the composition viewer.
 - [AEUX](https://google.github.io/AEUX/) - Transfers layers from Figma and Sketch into After Effects as editable shape layers, text, and images.
 - [Zorro The Layer Tagger](https://aescripts.com/zorro-the-layer-tagger/) - Tags layers with labels to enable group selection and isolation without pre-composing.
 - [TypeMonkey](https://aescripts.com/typemonkey/) - Keyframe-free kinetic typography script that algorithmically lays out, animates, and syncs text sequences to audio.
 - [Beatgrid](https://www.battleaxe.co/beatgrid) - Generates beat-synchronized markers and keyframes from manual BPM input or tap-tempo for precise audio-driven animation.
 - [Void](https://www.battleaxe.co/void) - Null-layer alternative that links expression controllers to 2D position without adding visible null objects to the composition.
-- [Bolt CEP](https://github.com/Hyperbrew/bolt-cep) - Vite and TypeScript boilerplate for building CEP extension panels for After Effects in React, Vue, or Svelte with hot-module replacement and ZXP packaging.
 - [EaseCopy](https://aescripts.com/easecopy/) - Copies and pastes keyframe easing curves independently from values, with smart scaling that analyzes animation direction and flips velocities as needed.
 - [Lazy 2](https://aescripts.com/lazy/) - Distributes layers and keyframes across the timeline along adjustable Bezier curves with pinching methods, a preset library, and KBar integration.
 - [Marker Conductor](https://aescripts.com/marker-conductor/) - Automatically places composition markers at specified time intervals or BPM with tap-tempo input and customizable marker comment templates.
 - [Workflower](https://aescripts.com/workflower/) - Adds layer grouping, selective adjustment layers, matte merging, and a pre-rendering system to organize complex compositions without precomposing.
 - [Expressionist](https://aescripts.com/expressionist/) - Enhanced expression editor with syntax highlighting, line numbers, multiple cursors, auto-bracket closing, and Sublime Text-style keyboard shortcuts.
 - [Labels](https://aescripts.com/labels/) - Manages label colors for layers, keyframes, and project items with one-click assignment, group selection filtering, and label-based selection modifiers.
+- [Rubberhose](https://battleaxe.co/rubberhose) - Shape-layer-based IK limb rigging system for fast character animation with one-click rig creation.
+- [Joysticks 'n Sliders](https://aescripts.com/joysticks-n-sliders/) - Pose-based rigging tool for character and facial animation using joystick and slider controllers.
+- [Limber](https://aescripts.com/limber/) - Flexible, shape-based limb rigging with IK/FK switching, auto-rotating hands, and over 100 presets.
+- [Ray Dynamic Color](https://aescripts.com/ray-dynamic-color/) - Expression-linked color palette system for unified color management across entire projects.
+- [Squash & Stretch Pro](https://aescripts.com/squash-and-stretch-pro/) - Behavior-based animation assistant with handcrafted motion presets and an integrated sound effects library.
+- [GEOlayers 3](https://aescripts.com/geolayers/) - Renders editable custom maps using real geodata inside After Effects with animated routes, borders, and data-driven visualizations.
+- [Ray Dynamic Texture](https://aescripts.com/ray-dynamic-texture/) - Texture workflow panel that stores and re-applies textures including layer settings, effects, keyframes, and expressions to any layer in one click.
 
 ## Plugins
 
@@ -114,11 +120,6 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Element 3D](https://www.videocopilot.net/products/element2/) - A powerful 3D plugin for After Effects that allows you to import and animate 3D models.
 - [Saber](https://www.videocopilot.net/blog/2016/03/new-plug-in-saber-now-available-100-free/) - A free, highly customizable lightsaber plugin for creating epic visual effects.
 - [Optical Flares](https://www.videocopilot.net/products/opticalflares/) - A plugin for adding realistic lens flares and other optical effects to your videos.
-- [Rubberhose 2](https://battleaxe.co/rubberhose) - Shape-layer-based IK limb rigging system for fast character animation with one-click rig creation.
-- [Joysticks 'n Sliders](https://aescripts.com/joysticks-n-sliders/) - Pose-based rigging tool for character and facial animation using joystick and slider controllers.
-- [Limber](https://aescripts.com/limber/) - Flexible, shape-based limb rigging with IK/FK switching, auto-rotating hands, and over 100 presets.
-- [Ray Dynamic Color](https://aescripts.com/ray-dynamic-color/) - Expression-linked color palette system for unified color management across entire projects.
-- [Squash & Stretch Pro](https://aescripts.com/squash-and-stretch-pro/) - Behavior-based animation assistant with handcrafted motion presets and an integrated sound effects library.
 - [Newton 4](https://aescripts.com/newton/) - 2D physics engine that simulates realistic collisions, gravity, and joint constraints for After Effects layers, baking results as standard keyframes.
 - [Deep Glow](https://aescripts.com/deep-glow/) - GPU-accelerated glow plugin with physically accurate light falloff, HDR thresholding, and image-based glow.
 - [TextBox 2](https://www.plugineverything.com/textbox) - Creates automatically resizing shape backgrounds behind text layers without expressions or parenting.
@@ -134,7 +135,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [ReelSmart Motion Blur](https://revisionfx.com/products/rsmb/) - Adds natural-looking motion blur to footage by automatically tracking per-pixel motion.
 - [FX Console](https://www.videocopilot.net/tutorials/fx_console_plugin) - Free quick-search command palette for applying effects, presets, and plugins without navigating menus.
 - [Plexus](https://www.rowbyte.com/plexus) - Procedural 3D particle system that renders points, lines, and triangles between particles with OBJ mesh import and sound reactivity.
-- [Continuum](https://borisfx.com/products/continuum/) - Suite of 300+ GPU-accelerated effects and transitions including Particle Illusion, Primatte Studio keying, and integrated Mocha planar tracking.
+- [Continuum](https://borisfx.com/products/continuum/) - Suite of 350+ GPU-accelerated effects and transitions including Particle Illusion, Primatte Studio keying, integrated Mocha tracking, and AI-based image restoration.
 - [TV Distortion Bundle](https://www.rowbyte.com/tv-distortion-bundle) - Collection of five plugins simulating analog and digital video artifacts including glitch, chromatic aberration, and pixel effects.
 - [Fast Bokeh Pro](https://www.rowbyte.com/fast-bokeh) - GPU-accelerated depth-of-field blur using depth maps with polygonal iris shapes and anamorphic bokeh support.
 - [Extrude](https://www.plugineverything.com/extrude) - Extrudes live text layers, shape layers, and mask paths into 3D with directional and camera-aware modes and GPU-accelerated shading.
@@ -143,16 +144,13 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [BAO Boa](https://aescripts.com/bao-boa/) - Spline deformation plugin that distorts layers along mask paths for animating ribbons, ropes, and curved text with 3D controls.
 - [Datamosh](https://aescripts.com/datamosh/) - Glitch-art plugin that simulates video codec corruption with over 60 moshing algorithms and controllable pixel distortion effects.
 - [Moglyph FX](https://aescripts.com/moglyph-fx/) - Procedural glyph cloner plugin inspired by Cinema 4D MoGraph for generating and animating text in grid, radial, and spline arrangements with effectors.
-- [GEOlayers 3](https://aescripts.com/geolayers/) - Renders editable custom maps using real geodata inside After Effects with animated routes, borders, and data-driven visualizations.
 - [Depth of Field Generator Pro](https://richardrosenman.com/shop/dof-pro-ae/) - Post-production depth-of-field simulation plugin using depth maps with support for aperture shapes, bokeh, chromatic aberration, and tilt-shift effects.
 - [Aura](https://aescripts.com/aura/) - Generates animated 3D geometric wave forms and patterns with depth-of-field support and Multi-Frame Rendering compatibility.
 - [ORB](https://www.videocopilot.net/orb/) - Free GPU-accelerated plugin for generating photorealistic 3D spheres with multi-channel texture mapping, specularity, and atmospheric glow.
-- [Boris FX Continuum](https://borisfx.com/products/continuum/) - Suite of 350+ GPU-accelerated effects, transitions, and text tools with integrated Mocha tracking and AI-based image restoration.
 - [Autokroma Influx](https://www.autokroma.com/Influx) - Native importer plugin that adds After Effects support for MKV, AV1, HAP, and other formats not handled by Adobe's default decoders.
 - [Thicc Stroke](https://www.plugineverything.com/thiccstroke) - Free variable-width stroke plugin with gradient-along-path support, taper controls, and animated width profiles.
-- [Composite Brush](https://aescripts.com/composite-brush/) - Paint-based color selection and keying tool that uses brush strokes to define the compositing region.
+- [Composite Brush](https://aescripts.com/composite-brush/) - Paint-based color selection and keying plugin that creates accurate mattes by painting strokes directly on footage.
 - [BAO Bones](https://aescripts.com/bao-bones/) - IK rigging and mesh-deformation plugin that enables full character animation on a single layer with keyframeable parenting and IK/FK switching.
-- [Ray Dynamic Texture](https://aescripts.com/ray-dynamic-texture/) - Texture workflow panel that stores and re-applies textures including layer settings, effects, keyframes, and expressions to any layer in one click.
 - [Pixel Sorter 4](https://aescripts.com/pixel-sorter/) - Pixel-sorting glitch effect with mask constraints, noise textures, and mirror-sort mode for creating seamlessly loopable animations.
 - [Neat Video](https://www.neatvideo.com/) - Noise and grain reduction plugin using temporal filtering and per-frame noise profiles to clean up footage from cameras, phones, drones, and film.
 - [Blace](https://aescripts.com/blace/) - AI-powered face detection and tracking plugin with automatic blur, pixelate, and custom mask replacement options for privacy redaction.
@@ -161,15 +159,14 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 
 ## Software
 
- - [nexrender](https://www.nexrender.com) - 📹 Data-driven render automation for After Effects
- - [DataClay Templater](https://dataclay.com/templater/) - Simplifies and accelerates the process of creating customized videos.
- - [Anubis](https://www.battleaxe.co/anubis) - Render management panel for exporting MP4 from After Effects and Premiere with automatic file naming and folder organization.
- - [Cavalry](https://cavalry.studio/) - Standalone procedural 2D animation software with data-driven workflows, real-time rendering, and spreadsheet integration, free for individuals.
+- [nexrender](https://www.nexrender.com) - Data-driven render automation for After Effects.
+- [DataClay Templater](https://dataclay.com/templater/) - Simplifies and accelerates the process of creating customized videos.
+- [Cavalry](https://cavalry.studio/) - Standalone procedural 2D animation software with data-driven workflows, real-time rendering, and spreadsheet integration, free for individuals.
+- [Bolt CEP](https://github.com/Hyperbrew/bolt-cep) - Vite and TypeScript boilerplate for building CEP extension panels for After Effects in React, Vue, or Svelte with hot-module replacement and ZXP packaging.
 
 ## Tutorials
 
 - [Video Copilot](https://www.videocopilot.net/tutorials/) - Andrew Kramer's Video Copilot is a treasure trove of After Effects tutorials and tips.
-- [Motion Design School](https://motiondesign.school/collections/after-effects) - Offers a variety of courses and tutorials on motion design and animation.
 - [School of Motion](https://www.schoolofmotion.com/tutorials) - Provides a wide range of motion graphics and animation tutorials and courses.
 - [Mobox Graphics](https://www.moboxgraphics.com/) - Offers in-depth After Effects tutorials, especially in the field of motion design.
 - [Tuts+](https://tutsplus.com/) - Tons of After Effects tutorials, articles, and courses on various topics.
@@ -184,6 +181,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 
 ## Courses
 
+- [Motion Design School](https://motiondesign.school/collections/after-effects) - Offers a variety of After Effects courses on motion design and animation.
 - [LinkedIn Learning - After Effects Courses](https://www.linkedin.com/learning/topics/adobe-after-effects) - Various After Effects courses on LinkedIn Learning.
 - [Udemy - After Effects Courses](https://www.udemy.com/courses/search/?q=after%20effects) - A wide selection of After Effects courses on Udemy.
 - [Coursera - Motion Graphics Courses](https://www.coursera.org/specializations/motion-graphics) - Explore motion graphics courses on Coursera.
