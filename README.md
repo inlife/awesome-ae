@@ -112,6 +112,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Squash & Stretch Pro](https://aescripts.com/squash-and-stretch-pro/) - Behavior-based animation assistant with handcrafted motion presets and an integrated sound effects library.
 - [GEOlayers 3](https://aescripts.com/geolayers/) - Renders editable custom maps using real geodata inside After Effects with animated routes, borders, and data-driven visualizations.
 - [Ray Dynamic Texture](https://aescripts.com/ray-dynamic-texture/) - Texture workflow panel that stores and re-applies textures including layer settings, effects, keyframes, and expressions to any layer in one click.
+- [Textue](https://tue.lol/textue) - Free text animation preset panel with 48 included presets, a motion preview on every card, and speed and spread dials added on apply.
 
 ## Plugins
 
