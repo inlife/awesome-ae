@@ -164,6 +164,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [DataClay Templater](https://dataclay.com/templater/) - Simplifies and accelerates the process of creating customized videos.
 - [Cavalry](https://cavalry.studio/) - Standalone procedural 2D animation software with data-driven workflows, real-time rendering, and spreadsheet integration, free for individuals.
 - [Bolt CEP](https://github.com/Hyperbrew/bolt-cep) - Vite and TypeScript boilerplate for building CEP extension panels for After Effects in React, Vue, or Svelte with hot-module replacement and ZXP packaging.
+- [iArt](https://www.iart.ai/) - Creates motion graphics from prompts and visual assets, with plain-language editing and MP4 export.
 
 ## Tutorials
 
