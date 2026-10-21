@@ -165,6 +165,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Cavalry](https://cavalry.studio/) - Standalone procedural 2D animation software with data-driven workflows, real-time rendering, and spreadsheet integration, free for individuals.
 - [Bolt CEP](https://github.com/Hyperbrew/bolt-cep) - Vite and TypeScript boilerplate for building CEP extension panels for After Effects in React, Vue, or Svelte with hot-module replacement and ZXP packaging.
 - [iArt](https://www.iart.ai/) - Creates motion graphics from prompts and visual assets, with plain-language editing and MP4 export.
+- [pitchboom.io](https://pitchboom.io) - Generates motion-design video ads from a product URL or a short brief, with script, editable storyboard, voice-over and music, and exports MP4 in five aspect ratios.
 
 ## Tutorials
 
