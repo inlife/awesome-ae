@@ -113,6 +113,9 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [GEOlayers 3](https://aescripts.com/geolayers/) - Renders editable custom maps using real geodata inside After Effects with animated routes, borders, and data-driven visualizations.
 - [Ray Dynamic Texture](https://aescripts.com/ray-dynamic-texture/) - Texture workflow panel that stores and re-applies textures including layer settings, effects, keyframes, and expressions to any layer in one click.
 - [Textue](https://tue.lol/textue) - Free text animation preset panel with 48 included presets, a motion preview on every card, and speed and spread dials added on apply.
+- [MATE for AE](https://aescripts.com/mate-for-ae/) - AI agent panel that generates scripts, expressions, and render queue actions from natural-language prompts using GPT, Claude, Gemini, or Mistral.
+- [MAG (Make Ae Great)](https://broadcastgems.gumroad.com/l/xgmcm) - Panel bundling 24+ scripts for layer grouping, keyframe orchestration, anchor point placement, and shape baking in one UI.
+- [LottieFiles for After Effects](https://aescripts.com/lottiefiles/) - Imports Lottie animations into After Effects and exports compositions as Lottie or dotLottie JSON files.
 
 ## Plugins
 
@@ -157,6 +160,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Blace](https://aescripts.com/blace/) - AI-powered face detection and tracking plugin with automatic blur, pixelate, and custom mask replacement options for privacy redaction.
 - [Yanobox Motype](https://www.yanobox.com/Motype/) - Text animation plugin distributed via FxFactory with 250+ presets for character-level 3D titles, light trails, and motion-painting effects.
 - [Silhouette](https://borisfx.com/products/silhouette/) - Rotoscoping and paint toolset with node-based compositing and point tracking, available as a standalone application or After Effects plugin.
+- [GPUDog](https://aescripts.com/gpudog/) - Pack of GPU-accelerated effects for After Effects rendering through Metal on macOS and Vulkan or D3D12 on Windows.
 
 ## Software
 
@@ -166,6 +170,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Bolt CEP](https://github.com/Hyperbrew/bolt-cep) - Vite and TypeScript boilerplate for building CEP extension panels for After Effects in React, Vue, or Svelte with hot-module replacement and ZXP packaging.
 - [iArt](https://www.iart.ai/) - Creates motion graphics from prompts and visual assets, with plain-language editing and MP4 export.
 - [pitchboom.io](https://pitchboom.io) - Generates motion-design video ads from a product URL or a short brief, with script, editable storyboard, voice-over and music, and exports MP4 in five aspect ratios.
+- [ae-mcp](https://github.com/p10q/ae-mcp) - Open-source MCP server that lets AI assistants control After Effects projects, layers, keyframes, and renders through a file-based bridge and CEP extension.
 
 ## Tutorials
 
