@@ -116,6 +116,8 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [MATE for AE](https://aescripts.com/mate-for-ae/) - AI agent panel that generates scripts, expressions, and render queue actions from natural-language prompts using GPT, Claude, Gemini, or Mistral.
 - [MAG (Make Ae Great)](https://broadcastgems.gumroad.com/l/xgmcm) - Panel bundling 24+ scripts for layer grouping, keyframe orchestration, anchor point placement, and shape baking in one UI.
 - [LottieFiles for After Effects](https://aescripts.com/lottiefiles/) - Imports Lottie animations into After Effects and exports compositions as Lottie or dotLottie JSON files.
+- [Code Runner](https://www.jakeinmotion.com/code-runner) - Free dockable panel for organizing and one-click running scripts, expressions, presets, and menu commands from a single workspace.
+- [Renderly 2](https://madebyloop.co.uk/after-effects-scripts/renderly-2-after-effects) - Defines custom render sections within a composition and batch renders multiple comps with reusable output settings, bypassing the work area bar.
 
 ## Plugins
 
@@ -161,6 +163,8 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Yanobox Motype](https://www.yanobox.com/Motype/) - Text animation plugin distributed via FxFactory with 250+ presets for character-level 3D titles, light trails, and motion-painting effects.
 - [Silhouette](https://borisfx.com/products/silhouette/) - Rotoscoping and paint toolset with node-based compositing and point tracking, available as a standalone application or After Effects plugin.
 - [GPUDog](https://aescripts.com/gpudog/) - Pack of GPU-accelerated effects for After Effects rendering through Metal on macOS and Vulkan or D3D12 on Windows.
+- [Fractal Noise 3D](https://aescripts.com/fractal-noise-3d/) - GPU-accelerated volumetric 3D fractal noise plugin with box, sphere, and cylinder geometry, domain warp, and depth-map import from other 3D applications.
+- [Fractal Noise Browser](https://aescripts.com/fractal-noise-browser/) - Preset browser panel with over 200 animated Fractal Noise and Turbulent Noise presets for After Effects.
 
 ## Software
 
@@ -171,6 +175,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [iArt](https://www.iart.ai/) - Creates motion graphics from prompts and visual assets, with plain-language editing and MP4 export.
 - [pitchboom.io](https://pitchboom.io) - Generates motion-design video ads from a product URL or a short brief, with script, editable storyboard, voice-over and music, and exports MP4 in five aspect ratios.
 - [ae-mcp](https://github.com/p10q/ae-mcp) - Open-source MCP server that lets AI assistants control After Effects projects, layers, keyframes, and renders through a file-based bridge and CEP extension.
+- [Atom](https://tryatom.ai) - AI agent that writes expressions, ExtendScript, animations, and rigs in After Effects from natural-language prompts.
 
 ## Tutorials
 
