@@ -118,6 +118,8 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [LottieFiles for After Effects](https://aescripts.com/lottiefiles/) - Imports Lottie animations into After Effects and exports compositions as Lottie or dotLottie JSON files.
 - [Code Runner](https://www.jakeinmotion.com/code-runner) - Free dockable panel for organizing and one-click running scripts, expressions, presets, and menu commands from a single workspace.
 - [Renderly 2](https://madebyloop.co.uk/after-effects-scripts/renderly-2-after-effects) - Defines custom render sections within a composition and batch renders multiple comps with reusable output settings, bypassing the work area bar.
+- [MotionAmigo](https://aescripts.com/motionamigo/) - CEP panel that runs a Claude Code or Codex coding agent inside After Effects using your own AI subscription instead of API keys.
+- [SceneStasher](https://aescripts.com/scenestasher/) - Saves and recalls named selections of layers and keyframes for quickly returning to specific moments in large timelines.
 
 ## Plugins
 
@@ -165,6 +167,10 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [GPUDog](https://aescripts.com/gpudog/) - Pack of GPU-accelerated effects for After Effects rendering through Metal on macOS and Vulkan or D3D12 on Windows.
 - [Fractal Noise 3D](https://aescripts.com/fractal-noise-3d/) - GPU-accelerated volumetric 3D fractal noise plugin with box, sphere, and cylinder geometry, domain warp, and depth-map import from other 3D applications.
 - [Fractal Noise Browser](https://aescripts.com/fractal-noise-browser/) - Preset browser panel with over 200 animated Fractal Noise and Turbulent Noise presets for After Effects.
+- [Putty](https://aescripts.com/putty/) - Deforms layers and footage with an adjustable lattice or cage fitted directly to the artwork, as an alternative to the built-in Mesh Warp.
+- [SUMI](https://aescripts.com/sumi/) - Simulates ink bleeding and absorption into paper surfaces such as washi, watercolor, and kent using any layer as a texture map.
+- [Entropy](https://wildconstruct.com/products/entropy) - GPU-accelerated particle system plugin from Wild Construct, currently in public beta.
+- [Higgsfield for After Effects](https://higgsfield.ai/plugins/after-effects) - Panel for generating AI video and images, removing backgrounds, and upscaling footage without leaving the timeline.
 
 ## Software
 
