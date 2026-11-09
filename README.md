@@ -65,6 +65,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Storyblocks](https://www.storyblocks.com/templates/after-effects-templates) - Subscription platform providing unlimited downloads of royalty-free After Effects templates for corporate, promotional, and broadcast motion graphics.
 - [ActionVFX](https://www.actionvfx.com/) - Library of production-ready VFX stock footage elements including fire, smoke, explosions, and atmospheric effects for compositing.
 - [Motion Bro](https://motionbro.net) - Free panel for browsing, previewing, and applying third-party animation preset packs and transitions from multiple creators directly within After Effects.
+- [DailySounds](https://dailysounds.org/?ref=awesomeae) - Free sound effects such as whooshes, impacts, UI clicks and risers, previewed in the browser and downloaded as MP3, WAV or OGG for commercial use.
 
 ## Scripts
 
