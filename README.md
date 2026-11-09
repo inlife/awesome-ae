@@ -175,7 +175,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 
 ## Software
 
-- [nexrender](https://www.nexrender.com) - Data-driven render automation for After Effects.
+- [Nexrender](https://www.nexrender.com?ref=awesomeae) - Data-driven render automation for After Effects.
 - [DataClay Templater](https://dataclay.com/templater/) - Simplifies and accelerates the process of creating customized videos.
 - [Cavalry](https://cavalry.studio/) - Standalone procedural 2D animation software with data-driven workflows, real-time rendering, and spreadsheet integration, free for individuals.
 - [Bolt CEP](https://github.com/Hyperbrew/bolt-cep) - Vite and TypeScript boilerplate for building CEP extension panels for After Effects in React, Vue, or Svelte with hot-module replacement and ZXP packaging.
