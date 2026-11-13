@@ -66,6 +66,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [ActionVFX](https://www.actionvfx.com/) - Library of production-ready VFX stock footage elements including fire, smoke, explosions, and atmospheric effects for compositing.
 - [Motion Bro](https://motionbro.net) - Free panel for browsing, previewing, and applying third-party animation preset packs and transitions from multiple creators directly within After Effects.
 - [DailySounds](https://dailysounds.org/?ref=awesomeae) - Free sound effects such as whooshes, impacts, UI clicks and risers, previewed in the browser and downloaded as MP3, WAV or OGG for commercial use.
+- [Uppbeat Motion Graphics](https://uppbeat.io/motion-graphics) - Subscription library of customizable After Effects project file templates, overlays, transitions, and LUTs updated weekly.
 
 ## Scripts
 
@@ -121,6 +122,9 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Renderly 2](https://madebyloop.co.uk/after-effects-scripts/renderly-2-after-effects) - Defines custom render sections within a composition and batch renders multiple comps with reusable output settings, bypassing the work area bar.
 - [MotionAmigo](https://aescripts.com/motionamigo/) - CEP panel that runs a Claude Code or Codex coding agent inside After Effects using your own AI subscription instead of API keys.
 - [SceneStasher](https://aescripts.com/scenestasher/) - Saves and recalls named selections of layers and keyframes for quickly returning to specific moments in large timelines.
+- [Command Frame](https://aescripts.com/command-frame/) - Free searchable command palette exposing over 1,300 After Effects actions, with custom keyboard shortcuts for layers, effects, presets, scripts, and plugin commands.
+- [Reach Pro](https://aescripts.com/reach/) - Search bar and bookmarking panel for quickly finding and launching commands, effects, presets, scripts, and expressions.
+- [RenderSmith](https://aescripts.com/rendersmith/) - Render management panel covering proxies, pre-renders, and final output with auto-versioning, auto-backup, and a quality guard mode.
 
 ## Plugins
 
@@ -172,6 +176,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [SUMI](https://aescripts.com/sumi/) - Simulates ink bleeding and absorption into paper surfaces such as washi, watercolor, and kent using any layer as a texture map.
 - [Entropy](https://wildconstruct.com/products/entropy) - GPU-accelerated particle system plugin from Wild Construct, currently in public beta.
 - [Higgsfield for After Effects](https://higgsfield.ai/plugins/after-effects) - Panel for generating AI video and images, removing backgrounds, and upscaling footage without leaving the timeline.
+- [Projection 3D](https://aescripts.com/projection-3d/) - Camera projection mapping plugin that turns still images into navigable pseudo-3D scenes with match-moving and object removal tools.
 
 ## Software
 
@@ -183,6 +188,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [pitchboom.io](https://pitchboom.io) - Generates motion-design video ads from a product URL or a short brief, with script, editable storyboard, voice-over and music, and exports MP4 in five aspect ratios.
 - [ae-mcp](https://github.com/p10q/ae-mcp) - Open-source MCP server that lets AI assistants control After Effects projects, layers, keyframes, and renders through a file-based bridge and CEP extension.
 - [Atom](https://tryatom.ai) - AI agent that writes expressions, ExtendScript, animations, and rigs in After Effects from natural-language prompts.
+- [mirAI](https://aescripts.com/mirai/) - MCP bridge that lets Claude, Cursor, and other AI agent tools control After Effects projects, layers, and renders directly.
 
 ## Tutorials
 
