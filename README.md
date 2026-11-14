@@ -177,6 +177,7 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Entropy](https://wildconstruct.com/products/entropy) - GPU-accelerated particle system plugin from Wild Construct, currently in public beta.
 - [Higgsfield for After Effects](https://higgsfield.ai/plugins/after-effects) - Panel for generating AI video and images, removing backgrounds, and upscaling footage without leaving the timeline.
 - [Projection 3D](https://aescripts.com/projection-3d/) - Camera projection mapping plugin that turns still images into navigable pseudo-3D scenes with match-moving and object removal tools.
+- [Totonoe Skin Retouch](https://fukudafukuo.github.io/totonoe/en/) - Skin retouching effect that detects skin by color, smooths it with an edge-preserving filter and restores fine texture, also available in Premiere Pro.
 
 ## Software
 
