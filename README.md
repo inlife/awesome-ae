@@ -125,6 +125,9 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Command Frame](https://aescripts.com/command-frame/) - Free searchable command palette exposing over 1,300 After Effects actions, with custom keyboard shortcuts for layers, effects, presets, scripts, and plugin commands.
 - [Reach Pro](https://aescripts.com/reach/) - Search bar and bookmarking panel for quickly finding and launching commands, effects, presets, scripts, and expressions.
 - [RenderSmith](https://aescripts.com/rendersmith/) - Render management panel covering proxies, pre-renders, and final output with auto-versioning, auto-backup, and a quality guard mode.
+- [Expression Alchemist](https://www.expressionalchemist.com/) - Visual node editor for building After Effects expressions that compiles connected nodes into native JavaScript.
+- [Shy Bar](https://aescripts.com/shy-bar/) - Timeline panel that filters and isolates layers by type, label, or visibility at the current time for working in cluttered compositions.
+- [MoTi](https://aescripts.com/moti/) - Generates editable entrance, outro, and transition animations for layered artwork based on tagged layer roles and a chosen style.
 
 ## Plugins
 
@@ -178,6 +181,11 @@ A curated list of awesome resources, plugins, scripts, tutorials, and more for A
 - [Higgsfield for After Effects](https://higgsfield.ai/plugins/after-effects) - Panel for generating AI video and images, removing backgrounds, and upscaling footage without leaving the timeline.
 - [Projection 3D](https://aescripts.com/projection-3d/) - Camera projection mapping plugin that turns still images into navigable pseudo-3D scenes with match-moving and object removal tools.
 - [Totonoe Skin Retouch](https://fukudafukuo.github.io/totonoe/en/) - Skin retouching effect that detects skin by color, smooths it with an edge-preserving filter and restores fine texture, also available in Premiere Pro.
+- [LightWrap](https://aescripts.com/lightwrap/) - Blends foreground edges into live background color and light with directional and glow controls, without requiring a precomp.
+- [DitherFactory](https://lacimatools.com/ditherfactory) - Converts footage or compositions into reduced-color patterned images using 27 animatable dithering algorithms.
+- [Advanced Radial Blur](https://github.com/MirzaBeig/Advanced-Radial-Blur-After-Effects-Plugin) - Free GPU-accelerated plugin combining zoom blur, Gaussian blur, and RGB channel smearing with independent masks.
+- [Gaussian Splatting plugin by KIRI Engine](https://github.com/Kiri-Innovation/Gaussian-Splatting-plugin-by-KIRI-Engine) - Free, open-source plugin for importing and rendering Gaussian Splat PLY scenes through After Effects cameras with color, crop, and displacement controls.
+- [ShotLink](https://aescripts.com/shotlink/) - Streams a live Unreal Engine render into a composition as a layer, with separate cameras feeding depth, normal, and other render passes.
 
 ## Software
 
